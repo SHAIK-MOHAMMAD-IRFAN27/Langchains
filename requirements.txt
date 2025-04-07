@@ -1,0 +1,2 @@
+python-dotenv streamlit  langchain_core langserve langserve --upgrade
+-U langchain-community sse_starlette langchain-community langchain-openai bs4
